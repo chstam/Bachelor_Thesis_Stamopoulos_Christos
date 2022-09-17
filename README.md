@@ -1,4 +1,6 @@
 # Bachelor_Thesis_Stamopoulos_Christos
+Optimum Selection of Sensors’ location and Damage Detection on an Operating Wind Turbine via vibration signals and non-parametric Multiple Models Method
+
 Slight changes of Environmental and Operating Conditions (EOCs) may significantly affect the performance of Structural Health of Monitoring of constructions. 
 Present thesis attempts structural health of monitoring in a Vestas V27 wind turbine blade, via a robust non-parametric Stochastic Time Series method under real 
 operating and environmental conditions. Random stochastic acceleration measurements are acquired from 12 accelerometers placed in separate positions on the blade 
